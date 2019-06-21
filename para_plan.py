@@ -6,7 +6,7 @@ def setup():
 	global img
 	createCanvas(1000, 500)
 	imageMode(CENTER)
-	img = loadImage('https://raw.githubusercontent.com/villares/para_plan/master/assets/ESPACO.png')
+	img = loadImage('ESPACO.png')
 	# a1 = loadImage('assets/01.png')
 
 def draw():
